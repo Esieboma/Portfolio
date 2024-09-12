@@ -10,7 +10,7 @@ I am a data analyst passionate about turning raw data into actionable insights, 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As a versatile data analyst, I skilled in Data Management, Data Analysis, Data visualization and statiscal analysis. I am proficcient in the use of MS Excell, Power Query, Power BI and SQL.*
+*As a versatile data analyst, I am skilled in Data Management, Data Analysis, Data visualization and statiscal analysis. I am proficcient in the use of MS Excell, Power Query, Power BI and SQL.*
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
