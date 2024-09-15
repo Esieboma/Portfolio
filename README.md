@@ -42,7 +42,7 @@ The project involved a comprehensive analysis of employee data, including but no
 ![image](assets/Power BI Project.JPG)
 <tr>
     <td>⬇️</td>
-    <td><a href="docs/docs/SAMUEL AVOKENYE ESIEBOMA CV-Data-Analyst_A092024.pdf">Download My Project File</a></td>
+    <td><a href="docs/docs/docs/Power BI Project.pbix">Download My Project File</a></td>
 </tr>
 
 ## MY SKILLS (Core)
