@@ -23,24 +23,24 @@ The project involved a comprehensive analysis of employee data, including but no
 .**
 ![image](assets/HR Attrition Analysis Dashboard.JPG)
     <tr>
-      <td>📧</td>
-      <td><a href="mailto:esiebomasamuel@yahoo.com">esiebomasamuel@yahoo.com</a></td>
+      <td>⬇️</td>
+      <td><a href="docs/docs/SAMUEL AVOKENYE ESIEBOMA CV-Data-Analyst_A092024.pdf">Download my CV</a></td>
     </tr>
 
 **Sales Analysis of a company that is into property with branches in two regions. In this analysis I analysed the sales conversion for the sales representative and the performance of the company for 3 years. Identified the production that had the greatest impact on the bottomline**
 
 ![image](assets/Sales Performance Analysis.JPG)
     <tr>
-      <td>📧</td>
-      <td><a href="mailto:esiebomasamuel@yahoo.com">esiebomasamuel@yahoo.com</a></td>
+      <td>⬇️</td>
+      <td><a href="docs/docs/SAMUEL AVOKENYE ESIEBOMA CV-Data-Analyst_A092024.pdf">Download my CV</a></td>
     </tr>
 
 **Power BI project: In this project I analyze the sales performance of a global trading company.**
 
 ![image](assets/Power BI Project.JPG)
     <tr>
-      <td>📧</td>
-      <td><a href="mailto:esiebomasamuel@yahoo.com">esiebomasamuel@yahoo.com</a></td>
+      <td>⬇️</td>
+      <td><a href="docs/docs/SAMUEL AVOKENYE ESIEBOMA CV-Data-Analyst_A092024.pdf">Download my CV</a></td>
     </tr>
 
 ## MY SKILLS (Core)
