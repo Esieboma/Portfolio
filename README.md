@@ -21,34 +21,42 @@ I am a data analyst passionate about turning raw data into actionable insights, 
 
 The project involved a comprehensive analysis of employee data, including but not limited to demographic information, job roles, performance metrics, compensation, and tenure. By leveraging advanced statistical techniques, I was able to uncover patterns and trends associated with attrition within the organization.
 .**
-![image](assets/HR Attrition Analysis Dashboard.JPG) 
-
 <tr>
   <td>⬇️</td>
 <td><a href="docs/docs/docs/Human Resources_Attrition Analysis.xlsx">Download My Project File</a></td>
  </tr>
+
+![image](assets/HR Attrition Analysis Dashboard.JPG) 
+
+
 
 <!--Project separator-->
 
 
 **Sales Analysis of a company that is into property with branches in two regions. In this analysis I analysed the sales conversion for the sales representative and the performance of the company for 3 years. Identified the production that had the greatest impact on the bottomline**
 
-![image](assets/Sales Performance Analysis.JPG)
 
  <tr>
     <td>⬇️</td>
     <td><a href="docs/docs/docs/Sales Performance Analysis.xlsx">Download My Project File</a></td>
 </tr>
 
+![image](assets/Sales Performance Analysis.JPG)
+
+
+
 <!--Project separator-->
 
 **Power BI project: In this project I analyze the sales performance of a global trading company.**
 
-![image](assets/Power BI Project.JPG)
+
 <tr>
     <td>⬇️</td>
     <td><a href="docs/docs/docs/Power BI Project.pbix">Download My Project File</a></td>
 </tr>
+
+![image](assets/Power BI Project.JPG)
+
 
 <!--Project separator-->
 
