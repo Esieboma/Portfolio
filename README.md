@@ -28,6 +28,7 @@ The project involved a comprehensive analysis of employee data, including but no
 <td><a href="docs/docs/docs/Human Resources_Attrition Analysis.xlsx">Download My Project File</a></td>
  </tr>
 
+<!--Project separator-->
 
 
 **Sales Analysis of a company that is into property with branches in two regions. In this analysis I analysed the sales conversion for the sales representative and the performance of the company for 3 years. Identified the production that had the greatest impact on the bottomline**
@@ -39,7 +40,7 @@ The project involved a comprehensive analysis of employee data, including but no
     <td><a href="docs/docs/docs/Sales Performance Analysis.xlsx">Download My Project File</a></td>
 </tr>
 
-
+<!--Project separator-->
 
 **Power BI project: In this project I analyze the sales performance of a global trading company.**
 
@@ -49,7 +50,7 @@ The project involved a comprehensive analysis of employee data, including but no
     <td><a href="docs/docs/docs/Power BI Project.pbix">Download My Project File</a></td>
 </tr>
 
-
+<!--Project separator-->
 
 ## MY SKILLS (Core)
 
