@@ -34,7 +34,7 @@ The project involved a comprehensive analysis of employee data, including but no
 
  <tr>
     <td>⬇️</td>
-    <td><a href="docs/docs/SAMUEL AVOKENYE ESIEBOMA CV-Data-Analyst_A092024.pdf">Download My Project File</a></td>
+    <td><a href="docs/docs/docs/Sales Performance Analysis.xlsx">Download My Project File</a></td>
 </tr>
 
 **Power BI project: In this project I analyze the sales performance of a global trading company.**
