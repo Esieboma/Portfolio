@@ -22,17 +22,26 @@ I am a data analyst passionate about turning raw data into actionable insights, 
 The project involved a comprehensive analysis of employee data, including but not limited to demographic information, job roles, performance metrics, compensation, and tenure. By leveraging advanced statistical techniques, I was able to uncover patterns and trends associated with attrition within the organization.
 .**
 ![image](assets/HR Attrition Analysis Dashboard.JPG)
-
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:esiebomasamuel@yahoo.com">esiebomasamuel@yahoo.com</a></td>
+    </tr>
 
 **Sales Analysis of a company that is into property with branches in two regions. In this analysis I analysed the sales conversion for the sales representative and the performance of the company for 3 years. Identified the production that had the greatest impact on the bottomline**
 
 ![image](assets/Sales Performance Analysis.JPG)
-
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:esiebomasamuel@yahoo.com">esiebomasamuel@yahoo.com</a></td>
+    </tr>
 
 **Power BI project: In this project I analyze the sales performance of a global trading company.**
 
 ![image](assets/Power BI Project.JPG)
-
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:esiebomasamuel@yahoo.com">esiebomasamuel@yahoo.com</a></td>
+    </tr>
 
 ## MY SKILLS (Core)
 
