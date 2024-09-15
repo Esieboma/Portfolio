@@ -21,7 +21,7 @@ I am a data analyst passionate about turning raw data into actionable insights, 
 
 The project involved a comprehensive analysis of employee data, including but not limited to demographic information, job roles, performance metrics, compensation, and tenure. By leveraging advanced statistical techniques, I was able to uncover patterns and trends associated with attrition within the organization.
 .**
-![image](assets/HR Attrition Analysis Dashboard.JPG)
+![image](assets/HR Attrition Analysis Dashboard.JPG) 
 
 <tr>
   <td>⬇️</td>
