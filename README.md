@@ -91,7 +91,7 @@ The project involved a comprehensive analysis of employee data, including but no
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://esieboma.github.io/Portfolio/">Check me out on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/samuel-esieboma-2b18a735/)">Check me out on LinkedIn</a></td>
     </tr>
     <tr>
  </tbody>
