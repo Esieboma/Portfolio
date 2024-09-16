@@ -87,7 +87,7 @@ The project involved a comprehensive analysis of employee data, including but no
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="[https://github.com/Esieboma/Portfolio](https://esieboma.github.io/Portfolio)/docs/SAMUEL AVOKENYE ESIEBOMA CV-Data-Analyst_A092024.pdf">Download my CV</a></td>
+      <td><a href="https://esieboma.github.io/Portfolio/docs/SAMUEL AVOKENYE ESIEBOMA CV-Data-Analyst_A092024.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
