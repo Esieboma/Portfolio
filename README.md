@@ -23,7 +23,7 @@ The project involved a comprehensive analysis of employee data, including but no
 .**
 <tr>
   <td>⬇️</td>
-<td><a href="docs/docs/docs/Human Resources_Attrition Analysis.xlsx">Download My Project File</a></td>
+<td><a href="docs/Human Resources_Attrition Analysis.xlsx">Download My Project File</a></td>
  </tr>
 
 ![image](assets/HR Attrition Analysis Dashboard.JPG) 
@@ -38,7 +38,7 @@ The project involved a comprehensive analysis of employee data, including but no
 
  <tr>
     <td>⬇️</td>
-    <td><a href="docs/docs/docs/Sales Performance Analysis.xlsx">Download My Project File</a></td>
+    <td><a href="docs/Sales Performance Analysis.xlsx">Download My Project File</a></td>
 </tr>
 
 ![image](assets/Sales Performance Analysis.JPG)
@@ -52,7 +52,7 @@ The project involved a comprehensive analysis of employee data, including but no
 
 <tr>
     <td>⬇️</td>
-    <td><a href="docs/docs/docs/Power BI Project.pbix">Download My Project File</a></td>
+    <td><a href="docs/Power BI Project.pbix">Download My Project File</a></td>
 </tr>
 
 ![image](assets/Power BI Project.JPG)
