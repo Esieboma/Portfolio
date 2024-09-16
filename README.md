@@ -87,7 +87,7 @@ The project involved a comprehensive analysis of employee data, including but no
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="docs/docs/SAMUEL AVOKENYE ESIEBOMA CV-Data-Analyst_A092024.pdf">Download my CV</a></td>
+      <td><a href="docs/SAMUEL AVOKENYE ESIEBOMA CV-Data-Analyst_A092024.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
